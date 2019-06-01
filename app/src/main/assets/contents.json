@@ -1,1044 +1,759 @@
- {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.loveromantic.stickers2",
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.wastickerapps.modi.stickers",
   "ios_app_store_link": "",
   "sticker_packs": [
-
-
-
-
+    {
+      "identifier": "1",
+      "name": "Modi Stickers",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "main2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "img1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "img2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "img3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "img4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "img5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "img6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "img7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "img8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "img9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "img10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "img11.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "img12.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "img13.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "img14.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "img15.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Namo Cartoon Stickers",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "main2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "img1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "img2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "img3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "img4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "img5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "img6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "img7.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "img8.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "img9.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "img10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "img11.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "img12.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "img13.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "img14.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "img15.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "img16.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "img17.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "img18.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "img19.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Namo chat Stickers",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "main3.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "img1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "img2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "img3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "img4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "img5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "img6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "img7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "img8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "img9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        }
+      ]
+    },
     {
       "identifier": "4",
-      "name": "Romantic Couple",
+      "name": "Narendra Modi Stickers",
       "publisher": "The Captain Flint",
-      "tray_image_file": "a1.webp",
+      "tray_image_file": "tray_Cuppy.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "a1.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a2.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a3.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a4.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a5.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a6.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a7.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a8.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a9.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a10.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "a11.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        }
-      ]
-    },
-
-
-    {
-      "identifier": "8",
-      "name": "Love Quote",
-      "publisher": "The Captain Flint",
-      "tray_image_file": "tray_Love_Quote.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "Love_Quote_02.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_03.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_04.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_05.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_06.webp",
+          "image_file": "st1.webp",
           "emojis": [
             "☕",
             "🙂"
           ]
         },
         {
-          "image_file": "Love_Quote_07.webp",
+          "image_file": "st2.webp",
           "emojis": [
             "😄",
             "😀"
           ]
         },
         {
-          "image_file": "Love_Quote_08.webp",
+          "image_file": "st3.webp",
           "emojis": [
             "😆",
             "😂"
           ]
         },
         {
-          "image_file": "Love_Quote_09.webp",
+          "image_file": "st4.webp",
           "emojis": [
             "😩",
             "😰"
           ]
         },
         {
-          "image_file": "Love_Quote_11.webp",
+          "image_file": "st5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "st6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "st7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "st8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "st9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "st10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "st11.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "st12.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "st13.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "st14.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "st15.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "st16.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "st17.webp",
+          "emojis": [
+            "📱",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "st18.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "st19.webp",
           "emojis": [
             "😩",
-            "😰"
+            "😨"
           ]
         },
         {
-          "image_file": "Love_Quote_17.webp",
+          "image_file": "st20.webp",
           "emojis": [
-            "😩",
-            "😰"
+            "💻",
+            "🌃"
           ]
         },
         {
-          "image_file": "Love_Quote_18.webp",
+          "image_file": "st21.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🎉",
+            "✨"
           ]
         },
         {
-          "image_file": "Love_Quote_19.webp",
+          "image_file": "st22.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🤮",
+            "👎"
           ]
         },
         {
-          "image_file": "Love_Quote_26.webp",
+          "image_file": "st23.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🖐",
+            "🙋"
           ]
         },
         {
-          "image_file": "Love_Quote_27.webp",
+          "image_file": "st24.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🖐",
+            "👋"
           ]
         },
         {
-          "image_file": "Love_Quote_29.webp",
+          "image_file": "st25.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🍵",
+            "😌"
           ]
         },
         {
-          "image_file": "Love_Quote_30.webp",
+          "image_file": "st26.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "📱",
+            "😦"
           ]
         },
         {
-          "image_file": "Love_Quote_31.webp",
+          "image_file": "st27.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "Love_Quote_32.webp",
+          "image_file": "st28.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🖐",
+            "🙋"
           ]
         },
         {
-          "image_file": "Love_Quote_34.webp",
+          "image_file": "st29.webp",
           "emojis": [
-            "😭",
-            "💧"
+            "🖐",
+            "👋"
           ]
         },
         {
-          "image_file": "Love_Quote_35.webp",
+          "image_file": "st30.webp",
           "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_36.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_37.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_38.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_39.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_40.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_41.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_42.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Love_Quote_43.webp",
-          "emojis": [
-            "😭",
-            "💧"
+            "🍵",
+            "😌"
           ]
         }
       ]
     },
     {
-      "identifier": "9",
-      "name": "Fairy Love",
+      "identifier": "5",
+      "name": "Modi Sticker",
       "publisher": "The Captain Flint",
-      "tray_image_file": "tray_Fairy_Love.png",
+      "tray_image_file": "tray_cuppy.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Fairy_Love_01.webp",
+          "image_file": "modi_icon_1.webp",
           "emojis": [
             "☕",
             "🙂"
           ]
         },
         {
-          "image_file": "Fairy_Love_02.webp",
+          "image_file": "modi_icon_2.webp",
           "emojis": [
             "😄",
             "😀"
           ]
         },
         {
-          "image_file": "Fairy_Love_03.webp",
+          "image_file": "modi_icon_3.webp",
           "emojis": [
             "😆",
             "😂"
           ]
         },
         {
-          "image_file": "Fairy_Love_04.webp",
+          "image_file": "modi_icon_4.webp",
           "emojis": [
             "😩",
             "😰"
           ]
         },
         {
-          "image_file": "Fairy_Love_05.webp",
+          "image_file": "modi_icon_5.webp",
           "emojis": [
             "😭",
             "💧"
           ]
         },
         {
-          "image_file": "Fairy_Love_06.webp",
+          "image_file": "modi_icon_6.webp",
           "emojis": [
             "😍",
             "♥"
           ]
         },
         {
-          "image_file": "Fairy_Love_07.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_08.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_09.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_10.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_11.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_12.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_13.webp",
+          "image_file": "modi_icon_7.webp",
           "emojis": [
             "😍",
             "♥"
           ]
         },
         {
-          "image_file": "Fairy_Love_14.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "Fairy_Love_15.webp",
+          "image_file": "modi_icon_8.webp",
           "emojis": [
             "😍",
-            "♥"
+            "💑"
           ]
         },
         {
-          "image_file": "Fairy_Love_16.webp",
+          "image_file": "modi_icon_13.webp",
           "emojis": [
-            "💔",
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "modi_icon_14.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "modi_icon_16.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "modi_icon_17.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "modi_icon_18.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
+        },
+        {
+          "image_file": "modi_icon_19.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
+        },
+        {
+          "image_file": "modi_icon_20.webp",
+          "emojis": [
+            "🤮",
             "👎"
           ]
-        }
-      ]
-    },
-
-
-    {
-      "identifier": "Couple Love 1",
-      "name": "Couple Love Sticker Pack 1",
-      "publisher": "The Captain Flint",
-      "tray_image_file": "001.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "001.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "002.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "003.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "004.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "005.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "006.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "007.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "008.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "009.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "010.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "011.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "012.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "013.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "014.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "015.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "016.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "017.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "018.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "019.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "020.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "021.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "022.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "023.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "024.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "025.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "026.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "027.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "028.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "029.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        }
-      ]
-    },
-
-
-    {
-      "identifier": "Kitty Love",
-      "name": "Kitty Love",
-      "publisher": "The Captain Flint",
-      "tray_image_file": "001.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "001.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "002.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "003.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "004.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "005.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "006.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "007.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "008.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "009.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "010.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "011.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "012.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "013.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "014.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "015.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "016.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "017.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "018.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "019.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "020.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "021.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "022.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        }
-      ]
-    },
-
-
-
-    {
-      "identifier": "Story Love",
-      "name": "Story Love",
-      "publisher": "The Captain Flint",
-      "tray_image_file": "001.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "001.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "002.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "003.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "004.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "005.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "006.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "007.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "008.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "009.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "010.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "011.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "012.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "013.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "014.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "015.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "016.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "017.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "018.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
-        },
-        {
-          "image_file": "019.webp",
-          "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
-          ]
         },
         {
-          "image_file": "020.webp",
+          "image_file": "modi_icon_21.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🤮",
+            "👎"
           ]
         },
         {
-          "image_file": "021.webp",
+          "image_file": "modi_icon_22.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🖐",
+            "👋"
           ]
         },
         {
-          "image_file": "022.webp",
+          "image_file": "modi_icon_23.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🍵",
+            "😌"
           ]
         },
         {
-          "image_file": "023.webp",
+          "image_file": "modi_icon_24.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "📱",
+            "😦"
           ]
         },
         {
-          "image_file": "024.webp",
+          "image_file": "modi_icon_25.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "025.webp",
+          "image_file": "modi_icon_26.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "026.webp",
+          "image_file": "modi_icon_27.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "027.webp",
+          "image_file": "modi_icon_28.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "028.webp",
+          "image_file": "modi_icon_29.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "029.webp",
+          "image_file": "modi_icon_30.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         },
         {
-          "image_file": "030.webp",
+          "image_file": "Modi_icon_31.webp",
           "emojis": [
-            "ðŸ˜±",
-            "ðŸ˜µ"
+            "🔋",
+            "😵"
           ]
         }
       ]
     }
   ]
 }
-  
